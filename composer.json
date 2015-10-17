@@ -1,0 +1,5 @@
+{
+    "require": {
+        "slim/views": "^0.1.3"
+    }
+}
